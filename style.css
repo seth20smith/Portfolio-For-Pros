@@ -166,13 +166,27 @@ header nav ul li a:hover {
   flex: 3;
 }
 
-/* GitHub Section */
+/* Link Section */
 .GitHub {
   height: 400px;
   display: flex;
   align-items: center;
   justify-content: center;
 }
+
+.github-image {
+  height: 50px; 
+  width: 50px;  
+  margin-right: 10px; 
+}
+
+.linkedin-image {
+  height: 50px; 
+  width: 150px;  
+  margin-right: 10px; 
+}
+
+
 
 .background-image {
   background-image: url("assets/Images/istockphoto-1133385963-612x612.jpeg");
